@@ -48,24 +48,13 @@ El proyecto implementa un flujo completo de análisis de datos:
 
 ---
 
-🔄 Proceso del Proyecto
+# 🔄 Proceso del Proyecto
 
-Idea del proyecto
-        │
-        ▼
-Generación de datos (Python + Faker)
-        │
-        ▼
-Carga en MySQL
-        │
-        ▼
-Modelado en Power BI
-        │
-        ▼
-Creación de KPIs (DAX)
-        │
-        ▼
-Dashboard Ejecutivo
+El desarrollo de **SmartStock Analytics** siguió un flujo completo de Business Intelligence, desde la generación de datos hasta la construcción de un dashboard interactivo para apoyar la toma de decisiones.
+
+<p align="center">
+  <img src="Images/proceso_proyecto.png" alt="Proceso del Proyecto" width="100%">
+</p>
 
 ---
 
