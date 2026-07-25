@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="Images/Banner.png" alt="SmartStock Analytics Banner" width="100%">
+  <img src="Images/banner.png" alt="SmartStock Analytics Banner" width="100%">
 </p>
 
 <h1 align="center">📦 SmartStock Analytics</h1>
@@ -45,6 +45,27 @@ El proyecto implementa un flujo completo de análisis de datos:
 - ⚠ Detectar productos con riesgo de agotamiento.
 - 📊 Centralizar la información del negocio.
 - 🚀 Facilitar la toma de decisiones basada en datos.
+
+---
+
+🔄 Proceso del Proyecto
+
+Idea del proyecto
+        │
+        ▼
+Generación de datos (Python + Faker)
+        │
+        ▼
+Carga en MySQL
+        │
+        ▼
+Modelado en Power BI
+        │
+        ▼
+Creación de KPIs (DAX)
+        │
+        ▼
+Dashboard Ejecutivo
 
 ---
 
