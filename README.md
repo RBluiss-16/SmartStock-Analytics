@@ -87,6 +87,11 @@ Dashboard Ejecutivo
                      ▼
       Dashboard Ejecutivo Inteligente
 ```
+# 🗃 Modelo Relacional
+
+<p align="center">
+<img src="Database/modelo_relacional.png" width="800">
+</p>
 
 ---
 
