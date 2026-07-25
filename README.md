@@ -89,7 +89,7 @@ El desarrollo de **SmartStock Analytics** siguió un flujo completo de Business 
 ## 📊 Resumen Ejecutivo
 
 <p align="center">
-<img src="Images/resumen_ejecutivo.png" width="900">
+<img src="Images/resumen_ejecutivo.gif" width="900">
 </p>
 
 Indicadores principales del negocio:
@@ -106,7 +106,7 @@ Indicadores principales del negocio:
 ## 📦 Análisis de Inventario
 
 <p align="center">
-<img src="Images/analisis_inventario.png" width="900">
+<img src="Images/analisis_inventario.gif" width="900">
 </p>
 
 Permite identificar:
